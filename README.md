@@ -1,1 +1,1 @@
-# planning-center-MCP
+# planning-center-mcp
